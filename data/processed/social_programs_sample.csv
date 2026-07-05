@@ -1,0 +1,32 @@
+id_household,program_name,program_category,is_beneficiary,enrollment_year
+HH001,Benefit_A,Income Support,Yes,2023
+HH002,Benefit_B,Food Assistance,Yes,2022
+HH003,None,None,No,
+HH004,Benefit_C,Utility Support,Yes,2021
+HH005,Benefit_A,Income Support,Yes,2024
+HH005,Benefit_C,Utility Support,Yes,2024
+HH006,None,None,No,
+HH007,Benefit_D,Social Protection,Yes,2020
+HH008,None,None,No,
+HH009,Benefit_A,Income Support,Yes,2023
+HH010,Benefit_B,Food Assistance,Yes,2022
+HH011,None,None,No,
+HH012,Benefit_C,Utility Support,Yes,2021
+HH013,None,None,No,
+HH014,None,None,No,
+HH015,Benefit_D,Social Protection,Yes,2020
+HH016,None,None,No,
+HH017,Benefit_A,Income Support,Yes,2023
+HH018,Benefit_C,Utility Support,Yes,2022
+HH019,None,None,No,
+HH020,Benefit_D,Social Protection,Yes,2021
+HH021,Benefit_A,Income Support,Yes,2024
+HH022,None,None,No,
+HH023,None,None,No,
+HH024,Benefit_D,Social Protection,Yes,2020
+HH025,Benefit_B,Food Assistance,Yes,2023
+HH026,None,None,No,
+HH027,None,None,No,
+HH028,Benefit_C,Utility Support,Yes,2021
+HH029,Benefit_A,Income Support,Yes,2024
+HH030,None,None,No,
