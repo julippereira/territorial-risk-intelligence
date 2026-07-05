@@ -1,0 +1,31 @@
+id_household,risk_type,risk_level,is_present,observed_signs,last_occurrence
+HH001,Flood,High,Yes,Water accumulation,2025
+HH002,Flood,High,Yes,Overflow drainage,2025
+HH003,None,None,No,None,
+HH004,Flood,Medium,Yes,Water accumulation,2024
+HH005,Erosion,High,Yes,Soil cracks,2025
+HH006,None,None,No,None,
+HH007,Flood,Medium,Yes,Surface runoff,2025
+HH008,None,None,No,None,
+HH009,Landslide,High,Yes,Slope instability,2025
+HH010,Erosion,Medium,Yes,Exposed soil,2024
+HH011,None,None,No,None,
+HH012,Flood,Medium,Yes,Water accumulation,2025
+HH013,None,None,No,None,
+HH014,Erosion,Low,Yes,Minor soil loss,2023
+HH015,Flood,High,Yes,Water entering property,2025
+HH016,None,None,No,None,
+HH017,Flood,Medium,Yes,Ponding areas,2025
+HH018,Erosion,Medium,Yes,Small ground cracks,2024
+HH019,None,None,No,None,
+HH020,Flood,High,Yes,Water accumulation,2025
+HH021,Flood,Medium,Yes,Blocked drainage,2025
+HH022,None,None,No,None,
+HH023,None,None,No,None,
+HH024,Flood,High,Yes,Water entering property,2025
+HH025,Erosion,Medium,Yes,Soil displacement,2025
+HH026,None,None,No,None,
+HH027,None,None,No,None,
+HH028,Landslide,High,Yes,Slope instability,2025
+HH029,Flood,High,Yes,Frequent flooding,2025
+HH030,None,None,No,None,
