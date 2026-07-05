@@ -11,6 +11,7 @@ All datasets available in this repository contain synthetic and fully anonymized
 ## Structure
 
 data/
+```
 ├── raw/
 │   └── sample_survey_raw.xlsx
 │
@@ -23,3 +24,4 @@ data/
 │
 └── dictionary/
     └── data_dictionary.xlsx
+```
