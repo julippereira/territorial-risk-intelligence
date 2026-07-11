@@ -48,6 +48,45 @@ The model was designed to support analytical workloads and dashboard development
 
 ---
 
+### geospatial_analysis.png
+
+Illustrates how geospatial information is combined with socioeconomic and environmental indicators to support territorial risk assessment.
+
+Layers represented include:
+
+- Household locations
+- Watershed boundaries
+- Risk exposure zones
+- Housing conditions
+- Social vulnerability indicators
+- Environmental risk indicators
+
+The geospatial framework enables:
+
+- Spatial distribution analysis
+- Risk hotspot identification
+- Vulnerability mapping
+- Priority area detection
+- Territorial intervention planning
+
+Example workflow:
+
+```text
+Household Survey Data
+          +
+Geographic Coordinates
+          +
+Environmental Risks
+          +
+Social Vulnerability Indicators
+          ↓
+Territorial Risk Assessment
+          ↓
+Priority Mapping
+```
+
+---
+
 ### methodology.png
 
 Summarizes the project methodology and major 
