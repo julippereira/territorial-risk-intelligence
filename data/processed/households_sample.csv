@@ -1,31 +1,31 @@
-id_household,survey_year,municipality,watershed,neighborhood,head_name,head_age,age_group,sex,marital_status,education_level,monthly_income,family_income,family_income_range,income_per_capita,household_size,dependents_count,housing_type,housing_material,critical_area,registration_status
-HH001,2025,Municipality_A,Watershed_01,Zone_A,Resident_A,41,40 to 49,Female,Married,High School,2200,4200,1 to 2 MW,1050,4,2,Owned,Masonry,Yes,Active
-HH002,2025,Municipality_A,Watershed_01,Zone_B,Resident_B,54,50 to 59,Male,Married,Elementary School,1400,2800,1 to 2 MW,933.33,3,1,Owned,Wood,Yes,Active
-HH003,2025,Municipality_A,Watershed_01,Zone_C,Resident_C,34,30 to 39,Female,Single,College Degree,4500,4500,2 to 4 MW,2250,2,0,Financed,Masonry,No,Active
-HH004,2025,Municipality_A,Watershed_01,Zone_D,Resident_D,58,50 to 59,Male,Divorced,Elementary School,1100,2200,1 to 2 MW,1100,2,0,Owned,Mixed,Yes,Active
-HH005,2025,Municipality_A,Watershed_01,Zone_E,Resident_E,37,30 to 39,Female,Married,High School,2800,5600,2 to 4 MW,1120,5,3,Owned,Masonry,Yes,Active
-HH006,2025,Municipality_A,Watershed_01,Zone_F,Resident_F,46,40 to 49,Male,Married,High School,3200,6400,4 to 8 MW,2133.33,3,1,Owned,Masonry,No,Active
-HH007,2025,Municipality_A,Watershed_01,Zone_G,Resident_G,68,60+,Female,Widowed,Elementary School,1500,1500,Up to 1 MW,1500,1,0,Owned,Wood,Yes,Active
-HH008,2025,Municipality_A,Watershed_01,Zone_H,Resident_H,30,30 to 39,Male,Single,College Degree,5200,5200,2 to 4 MW,2600,2,0,Financed,Masonry,No,Active
-HH009,2025,Municipality_A,Watershed_01,Zone_I,Resident_I,43,40 to 49,Female,Married,High School,2100,4200,1 to 2 MW,1050,4,2,Owned,Masonry,Yes,Active
-HH010,2025,Municipality_A,Watershed_01,Zone_J,Resident_J,55,50 to 59,Male,Divorced,Elementary School,1300,2600,1 to 2 MW,1300,2,0,Owned,Wood,Yes,Inactive
-HH011,2025,Municipality_B,Watershed_02,Zone_K,Resident_K,29,20 to 29,Female,Single,High School,2600,5200,2 to 4 MW,1733.33,3,1,Rented,Masonry,No,Active
-HH012,2025,Municipality_B,Watershed_02,Zone_L,Resident_L,62,60+,Male,Married,Elementary School,1800,3600,2 to 4 MW,1800,2,0,Owned,Mixed,Yes,Active
-HH013,2025,Municipality_B,Watershed_02,Zone_M,Resident_M,36,30 to 39,Female,Married,College Degree,4800,4800,2 to 4 MW,2400,2,0,Financed,Masonry,No,Active
-HH014,2025,Municipality_B,Watershed_02,Zone_N,Resident_N,50,50 to 59,Male,Married,High School,3000,6000,2 to 4 MW,1500,4,2,Owned,Masonry,No,Active
-HH015,2025,Municipality_B,Watershed_02,Zone_O,Resident_O,70,60+,Female,Widowed,Elementary School,1518,1518,Up to 1 MW,1518,1,0,Owned,Wood,Yes,Active
-HH016,2025,Municipality_B,Watershed_02,Zone_P,Resident_P,33,30 to 39,Male,Married,High School,2900,5800,2 to 4 MW,1933.33,3,1,Owned,Masonry,No,Active
-HH017,2025,Municipality_B,Watershed_02,Zone_Q,Resident_Q,42,40 to 49,Female,Married,High School,2400,6000,2 to 4 MW,1200,5,2,Owned,Masonry,Yes,Active
-HH018,2025,Municipality_B,Watershed_02,Zone_R,Resident_R,48,40 to 49,Male,Divorced,Elementary School,1700,3400,2 to 4 MW,1700,2,0,Rented,Wood,Yes,Active
-HH019,2025,Municipality_B,Watershed_02,Zone_S,Resident_S,35,30 to 39,Female,Single,College Degree,5300,5300,2 to 4 MW,2650,2,0,Financed,Masonry,No,Active
-HH020,2025,Municipality_B,Watershed_02,Zone_T,Resident_T,59,50 to 59,Male,Married,Elementary School,1621,3242,2 to 4 MW,1621,2,0,Owned,Mixed,Yes,Active
-HH021,2025,Municipality_C,Watershed_03,Zone_U,Resident_U,40,40 to 49,Female,Married,High School,2700,5400,2 to 4 MW,1350,4,2,Owned,Masonry,Yes,Active
-HH022,2025,Municipality_C,Watershed_03,Zone_V,Resident_V,53,50 to 59,Male,Married,High School,3400,6800,4 to 8 MW,2266.67,3,1,Owned,Masonry,No,Active
-HH023,2025,Municipality_C,Watershed_03,Zone_W,Resident_W,28,20 to 29,Female,Single,College Degree,6000,6000,2 to 4 MW,3000,2,0,Financed,Masonry,No,Active
-HH024,2025,Municipality_C,Watershed_03,Zone_X,Resident_X,64,60+,Male,Widowed,Elementary School,1518,1518,Up to 1 MW,1518,1,0,Owned,Wood,Yes,Active
-HH025,2025,Municipality_C,Watershed_03,Zone_Y,Resident_Y,45,40 to 49,Female,Married,High School,2200,5500,2 to 4 MW,1100,5,3,Owned,Masonry,No,Active
-HH026,2025,Municipality_C,Watershed_03,Zone_Z,Resident_Z,49,40 to 49,Male,Married,High School,3100,6200,4 to 8 MW,1550,4,1,Owned,Masonry,No,Active
-HH027,2025,Municipality_C,Watershed_03,Zone_AA,Resident_AA,32,30 to 39,Female,Single,College Degree,4700,4700,2 to 4 MW,2350,2,0,Financed,Masonry,No,Active
-HH028,2025,Municipality_C,Watershed_03,Zone_AB,Resident_AB,61,60+,Male,Married,Elementary School,1621,3242,2 to 4 MW,1621,2,0,Owned,Mixed,Yes,Active
-HH029,2025,Municipality_C,Watershed_03,Zone_AC,Resident_AC,39,30 to 39,Female,Married,High School,2500,5000,2 to 4 MW,1250,4,2,Owned,Masonry,Yes,Active
-HH030,2025,Municipality_C,Watershed_03,Zone_AD,Resident_AD,52,50 to 59,Male,Married,High School,3700,7400,4 to 8 MW,2466.67,3,1,Owned,Masonry,No,Active
+id_household,survey_year,municipality,watershed,neighborhood,head_name,head_age,age_group,sex,marital_status,education_level,occupation,monthly_income,family_income,family_income_range,income_per_capita,household_size,dependents_count,housing_type,housing_material,critical_area,registration_status
+HH001,2025,Municipality_A,Watershed_01,Zone_A,Resident_A,41,40 to 49,Female,Married,High School,Formal Employment,2200,4200,1 to 2 MW,1050,4,2,Owned,Masonry,Yes,Active
+HH002,2025,Municipality_A,Watershed_01,Zone_B,Resident_B,54,50 to 59,Male,Married,Elementary School,Informal Employment,1400,2800,1 to 2 MW,933.33,3,1,Owned,Wood,Yes,Active
+HH003,2025,Municipality_A,Watershed_01,Zone_C,Resident_C,34,30 to 39,Female,Single,College Degree,Formal Employment,4500,4500,2 to 4 MW,2250,2,0,Financed,Masonry,No,Active
+HH004,2025,Municipality_A,Watershed_01,Zone_D,Resident_D,58,50 to 59,Male,Divorced,Elementary School,Retired/Pensioner,1100,2200,1 to 2 MW,1100,2,0,Owned,Mixed,Yes,Active
+HH005,2025,Municipality_A,Watershed_01,Zone_E,Resident_E,37,30 to 39,Female,Married,High School,Homemaker,2800,5600,2 to 4 MW,1120,5,3,Owned,Masonry,Yes,Active
+HH006,2025,Municipality_A,Watershed_01,Zone_F,Resident_F,46,40 to 49,Male,Married,High School,Formal Employment,3200,6400,4 to 8 MW,2133.33,3,1,Owned,Masonry,No,Active
+HH007,2025,Municipality_A,Watershed_01,Zone_G,Resident_G,68,60+,Female,Widowed,Elementary School,Retired/Pensioner,1500,1500,Up to 1 MW,1500,1,0,Owned,Wood,Yes,Active
+HH008,2025,Municipality_A,Watershed_01,Zone_H,Resident_H,30,30 to 39,Male,Single,College Degree,Student,5200,5200,2 to 4 MW,2600,2,0,Financed,Masonry,No,Active
+HH009,2025,Municipality_A,Watershed_01,Zone_I,Resident_I,43,40 to 49,Female,Married,High School,Formal Employment,2100,4200,1 to 2 MW,1050,4,2,Owned,Masonry,Yes,Active
+HH010,2025,Municipality_A,Watershed_01,Zone_J,Resident_J,55,50 to 59,Male,Divorced,Elementary School,Unemployed,1300,2600,1 to 2 MW,1300,2,0,Owned,Wood,Yes,Inactive
+HH011,2025,Municipality_B,Watershed_02,Zone_K,Resident_K,29,20 to 29,Female,Single,High School,Informal Employment,2600,5200,2 to 4 MW,1733.33,3,1,Rented,Masonry,No,Active
+HH012,2025,Municipality_B,Watershed_02,Zone_L,Resident_L,62,60+,Male,Married,Elementary School,Retired/Pensioner,1800,3600,2 to 4 MW,1800,2,0,Owned,Mixed,Yes,Active
+HH013,2025,Municipality_B,Watershed_02,Zone_M,Resident_M,36,30 to 39,Female,Married,College Degree,Formal Employment,4800,4800,2 to 4 MW,2400,2,0,Financed,Masonry,No,Active
+HH014,2025,Municipality_B,Watershed_02,Zone_N,Resident_N,50,50 to 59,Male,Married,High School,Formal Employment,3000,6000,2 to 4 MW,1500,4,2,Owned,Masonry,No,Active
+HH015,2025,Municipality_B,Watershed_02,Zone_O,Resident_O,70,60+,Female,Widowed,Elementary School,Retired/Pensioner,1518,1518,Up to 1 MW,1518,1,0,Owned,Wood,Yes,Active
+HH016,2025,Municipality_B,Watershed_02,Zone_P,Resident_P,33,30 to 39,Male,Married,High School,Self-Employed,2900,5800,2 to 4 MW,1933.33,3,1,Owned,Masonry,No,Active
+HH017,2025,Municipality_B,Watershed_02,Zone_Q,Resident_Q,42,40 to 49,Female,Married,High School,Homemaker,2400,6000,2 to 4 MW,1200,5,2,Owned,Masonry,Yes,Active
+HH018,2025,Municipality_B,Watershed_02,Zone_R,Resident_R,48,40 to 49,Male,Divorced,Elementary School,Informal Employment,1700,3400,2 to 4 MW,1700,2,0,Rented,Wood,Yes,Active
+HH019,2025,Municipality_B,Watershed_02,Zone_S,Resident_S,35,30 to 39,Female,Single,College Degree,Formal Employment,5300,5300,2 to 4 MW,2650,2,0,Financed,Masonry,No,Active
+HH020,2025,Municipality_B,Watershed_02,Zone_T,Resident_T,59,50 to 59,Male,Married,Elementary School,Retired/Pensioner,1621,3242,2 to 4 MW,1621,2,0,Owned,Mixed,Yes,Active
+HH021,2025,Municipality_C,Watershed_03,Zone_U,Resident_U,40,40 to 49,Female,Married,High School,Formal Employment,2700,5400,2 to 4 MW,1350,4,2,Owned,Masonry,Yes,Active
+HH022,2025,Municipality_C,Watershed_03,Zone_V,Resident_V,53,50 to 59,Male,Married,High School,Self-Employed,3400,6800,4 to 8 MW,2266.67,3,1,Owned,Masonry,No,Active
+HH023,2025,Municipality_C,Watershed_03,Zone_W,Resident_W,28,20 to 29,Female,Single,College Degree,Student,6000,6000,2 to 4 MW,3000,2,0,Financed,Masonry,No,Active
+HH024,2025,Municipality_C,Watershed_03,Zone_X,Resident_X,64,60+,Male,Widowed,Elementary School,Retired/Pensioner,1518,1518,Up to 1 MW,1518,1,0,Owned,Wood,Yes,Active
+HH025,2025,Municipality_C,Watershed_03,Zone_Y,Resident_Y,45,40 to 49,Female,Married,High School,Homemaker,2200,5500,2 to 4 MW,1100,5,3,Owned,Masonry,No,Active
+HH026,2025,Municipality_C,Watershed_03,Zone_Z,Resident_Z,49,40 to 49,Male,Married,High School,Formal Employment,3100,6200,4 to 8 MW,1550,4,1,Owned,Masonry,No,Active
+HH027,2025,Municipality_C,Watershed_03,Zone_AA,Resident_AA,32,30 to 39,Female,Single,College Degree,Formal Employment,4700,4700,2 to 4 MW,2350,2,0,Financed,Masonry,No,Active
+HH028,2025,Municipality_C,Watershed_03,Zone_AB,Resident_AB,61,60+,Male,Married,Elementary School,Military,1621,3242,2 to 4 MW,1621,2,0,Owned,Mixed,Yes,Active
+HH029,2025,Municipality_C,Watershed_03,Zone_AC,Resident_AC,39,30 to 39,Female,Married,High School,Informal Employment,2500,5000,2 to 4 MW,1250,4,2,Owned,Masonry,Yes,Active
+HH030,2025,Municipality_C,Watershed_03,Zone_AD,Resident_AD,52,50 to 59,Male,Married,High School,Not Informed,3700,7400,4 to 8 MW,2466.67,3,1,Owned,Masonry,No,Active
