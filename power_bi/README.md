@@ -1,4 +1,4 @@
-# Power BI Dashboard
+# 📊 Power BI Dashboard
 
 This directory contains the Power BI dashboard developed for the **Territorial Risk Intelligence** project.
 
