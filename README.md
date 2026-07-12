@@ -1,5 +1,15 @@
 # 🌎 Territorial Risk Intelligence
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Azure Maps](https://img.shields.io/badge/Azure%20Maps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square)
+![Survey Design](https://img.shields.io/badge/Survey%20Design-FF6F00?style=flat-square)
+![Geospatial Analysis](https://img.shields.io/badge/Geospatial%20Analysis-2E8B57?style=flat-square)
+![Territorial Intelligence](https://img.shields.io/badge/Territorial%20Intelligence-6A0DAD?style=flat-square)
+
+
 An end-to-end data analytics project designed to transform household survey data into actionable territorial intelligence products.
 
 This project demonstrates the complete lifecycle of a territorial risk assessment initiative, from survey design and data preparation to analytical modeling, geospatial analysis, and interactive business intelligence dashboards.
