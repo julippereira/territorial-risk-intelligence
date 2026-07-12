@@ -1,4 +1,4 @@
-# 📝 Data
+# 🗃️ Data
 
 This directory contains anonymized and synthetic datasets used to demonstrate the data engineering and analytics workflow developed for the Territorial Risk Intelligence project.
 
