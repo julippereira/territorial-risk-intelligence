@@ -1,4 +1,4 @@
-# 📓 Notebooks
+# 📒 Notebooks
 
 This directory contains the data preparation workflow used in the Territorial Risk Intelligence project.
 
