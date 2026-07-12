@@ -59,23 +59,7 @@ Illustrates the end-to-end analytical workflow implemented in the project.
 
 Main stages:
 
-```text
-Survey Design
-      ↓
-Field Data Collection
-      ↓
-Raw Survey Dataset
-      ↓
-Data Cleaning
-      ↓
-Feature Engineering
-      ↓
-Data Normalization
-      ↓
-Analytical Models
-      ↓
-Power BI Dashboard
-```
+![data_flow.png](data_flow.png)
 
 Purpose:
 
@@ -91,17 +75,7 @@ Presents the relational data model used throughout the project.
 
 Core entities:
 
-```text
-Households
-    │
-    ├── Social Programs
-    │
-    ├── Housing Conditions
-    │
-    ├── Environmental Risks
-    │
-    └── Locations
-```
+![data_model.png](data_model.png)
 
 The model supports:
 
@@ -116,17 +90,7 @@ The model supports:
 
 Documents the methodological approach used to structure and analyze territorial data.
 
-Project phases:
-
-1. Survey Design
-2. Data Collection Planning
-3. Data Preparation
-4. Data Validation
-5. Feature Engineering
-6. Data Normalization
-7. Risk Assessment
-8. Geospatial Analysis
-9. Dashboard Development
+![methodology.png](methodology.png)
 
 Purpose:
 
@@ -151,21 +115,7 @@ Components:
 
 Conceptual framework:
 
-```text
-Locations
-      +
-Environmental Risks
-      +
-Housing Conditions
-      +
-Social Vulnerability
-      ↓
-Spatial Analysis
-      ↓
-Territorial Intelligence
-      ↓
-Priority Areas
-```
+![geospatial_analysis.png](geospatial_analysis.png)
 
 Geospatial capabilities:
 
