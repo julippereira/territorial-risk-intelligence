@@ -1,4 +1,4 @@
-# 📊 Analytics
+# 🧠 Analytics
 
 This directory contains the analytical models used to transform processed household survey data into actionable territorial intelligence indicators.
 
