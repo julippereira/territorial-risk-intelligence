@@ -22,6 +22,31 @@ The solution combines Data Engineering, Analytics, Geospatial Intelligence, and 
 
 ---
 
+# 📸 Dashboard Highlights
+
+## 🌍 Geospatial Distribution
+
+Interactive territorial intelligence dashboard integrating social vulnerability, environmental risk, housing conditions, and spatial analysis.
+![dashboard_geospatial.png](docs/dashboard_geospatial.png)
+
+---
+
+## 🔎 Household-Level Geospatial Analysis
+
+Interactive tooltip providing detailed household-level intelligence, including socioeconomic characteristics, housing conditions, and integrated risk indicators.
+
+![dashboard_geospatial_detail.png](docs/dashboard_geospatial_detail.png)
+
+---
+
+## 🏠 Housing Conditions & Environmental Assessment
+
+Infrastructure, environmental risk exposure, housing conditions, and sanitary indicators.
+
+![dashboard_housing.pngg](docs/dashboard_housing.png)
+
+---
+
 # 📝 Survey Design
 
 A key component of this project was the design and structuring of the household survey instrument used to collect territorial data.
@@ -50,7 +75,7 @@ The survey was planned to capture demographic, socioeconomic, housing, environme
 - Geospatial requirements definition
 - Analytical indicator requirements
 
-The resulting dataset was specifically designed to support risk assessment, household prioritization, and geospatial analysis.
+The resulting dataset was specifically designed to support risk assessment, territorial prioritization, and geospatial analysis.
 
 ---
 
@@ -80,6 +105,12 @@ Geospatial Analysis
 Power BI Dashboard
         ↓
 Territorial Risk Intelligence
+```
+
+Architecture diagrams and technical documentation are available in:
+
+```text
+architecture/
 ```
 
 ---
@@ -156,8 +187,6 @@ notebooks/
 
 ### 01_data_preparation.ipynb
 
-Responsible for:
-
 - Raw data ingestion
 - Data cleaning
 - Standardization
@@ -165,23 +194,17 @@ Responsible for:
 
 ### 02_social_programs_normalization.ipynb
 
-Responsible for:
-
 - Social program normalization
 - Indicator structuring
 - Data modeling
 
 ### 03_housing_conditions_normalization.ipynb
 
-Responsible for:
-
 - Housing condition normalization
 - Infrastructure indicators
 - Housing quality assessment
 
 ### 04_environmental_risks_normalization.ipynb
-
-Responsible for:
 
 - Environmental risk normalization
 - Risk classification
@@ -197,7 +220,7 @@ Located in:
 analytics/
 ```
 
-The analytics layer transforms processed datasets into risk intelligence products.
+The analytics layer transforms processed datasets into territorial intelligence products.
 
 ---
 
@@ -308,119 +331,44 @@ to support territorial prioritization.
 
 The Power BI solution consolidates demographic, socioeconomic, environmental, housing, and geospatial indicators into an interactive territorial intelligence platform.
 
----
-
-## 👥 Demographics
-
-Provides an overview of the surveyed population.
-
-Key indicators:
+### 👥 Demographics
 
 - Total Households
 - Total Residents
 - Female-Headed Households
 - Households with Dependents
-- Age Distribution
-- Education Level
+- Education Profile
 - Occupation Profile
-
----
-
-## 💰 Socioeconomics
-
-Presents socioeconomic characteristics and vulnerability-related indicators.
-
-Key indicators:
-
-- Average Family Income
-- Average Per Capita Income
-- Income Distribution
-- Social Program Participation
-- Beneficiary Households
-
----
-
-## 🏠 Housing
-
-Assesses housing quality and infrastructure adequacy.
-
-Key indicators:
-
-- Households in Critical Areas
-- Households Exposed to Geological Risks
-- Households Without Sewer Access
-- Wood/Mixed Housing Units
-- Housing Condition Score
-- Environmental & Sanitary Conditions
-
----
-
-## 🌎 Geospatial Distribution
-
-Combines analytical indicators with spatial information to support territorial decision-making.
-
-Key indicators:
-
-- Average Socioenvironmental Index
-- Average Vulnerability Index
-- Average Environmental Risk Index
-- High-Priority Households
-
-Visualizations:
-
-- Socioenvironmental Priority Map
-- Interactive Household-Level Tooltips
-- Priority Distribution
-- Priority Households by Income Range
-
----
-
-# 📸 Dashboard Preview
-
-### 👥 Demographics
-
-docs/dashboard_demographics.png
-
----
 
 ### 💰 Socioeconomics
 
-docs/dashboard_socioeconomics.png
-
----
+- Income Distribution
+- Average Family Income
+- Average Per Capita Income
+- Social Program Participation
+- Beneficiary Households
 
 ### 🏠 Housing
 
-docs/dashboard_housing.png
+- Housing Conditions
+- Geological Risk Exposure
+- Environmental & Sanitary Conditions
+- Critical Areas
+- Housing Quality Indicators
 
----
+### 🌎 Geospatial Distribution
 
-### 🌍 Geospatial Distribution
+- Socioenvironmental Priority Map
+- Household-Level Analysis
+- Priority Distribution
+- Spatial Risk Assessment
+- Income vs Priority Analysis
 
-docs/dashboard_geospatial.png
-
----
-
-### 🔎 Household-Level Geospatial Detail
-
-docs/dashboard_geospatial_detail.png
-
----
-
-# 🏗️ Technical Documentation
-
-The complete project architecture is documented in:
+Detailed dashboard documentation is available in:
 
 ```text
-architecture/
+power_bi/
 ```
-
-Contents include:
-
-- Data Flow
-- Relational Data Model
-- Project Methodology
-- Geospatial Architecture
 
 ---
 
@@ -463,7 +411,7 @@ The repository does not contain:
 - Real geographic coordinates
 - Personally identifiable information
 
-The published datasets were designed exclusively for demonstration, educational, and portfolio purposes.
+The published datasets were created exclusively for demonstration, educational, and portfolio purposes.
 
 ---
 
@@ -484,6 +432,7 @@ The published datasets were designed exclusively for demonstration, educational,
 - Business Intelligence
 - Dashboard Development
 - Power BI
+- Azure Maps
 
 ---
 
@@ -493,4 +442,4 @@ If you would like to discuss the project, exchange ideas, or collaborate, feel f
 
 ---
 
-⭐ If you enjoyed this project, consider giving the repository a star.
+⭐ If you found this project interesting, consider giving the repository a star.
